@@ -13,3 +13,5 @@ The game can be powered either by a battery or by connecting to a PC through a U
 The file 'final.c' is the final game implementation
 
 Also added Proteus ISIS file 'avr_matrix.DSN' for simulation. 
+
+The complete project can be seen at : https://hackaday.io/project/27870-pong-game
